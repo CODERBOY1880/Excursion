@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.h{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
